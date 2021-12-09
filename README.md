@@ -1,2 +1,1 @@
-# admin-panel-finder
-Admin Panel Tarayıcı
+# Admin Panel Tarayıcı
